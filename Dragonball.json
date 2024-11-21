@@ -1,0 +1,20 @@
+{
+  "title": "Dragonball",
+  "description": "",
+  "artist": "Akira Toriyama",
+  "author": "",
+  "cover": "https://drive.usercontent.google.com/download?id=1DSsal_xgHgwiYnyE32yhKprfm91_-5zM",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1732216134",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1IziL_jSgWq653OpfbsCakgocEPNtpN_j",
+          "https://drive.usercontent.google.com/download?id=1oVQ0j8ocYACsp9K9D9ijA3Y4S57khICx"
+        ]
+      }
+    }
+  }
+}
